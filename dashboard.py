@@ -1,3 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import streamlit as st
+ 
 # Header
 st.header('Nugroho :sparkles:')
 st.subheader('Plot')
