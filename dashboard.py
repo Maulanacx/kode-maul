@@ -1,5 +1,3 @@
-#maulana prayoga santoso
-#220322603245
 
 import numpy as np
 import matplotlib.pyplot as plt
