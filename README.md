@@ -1,4 +1,4 @@
 ## fisika
 ## komputasi
 ## awan
-miring
+_miring_
