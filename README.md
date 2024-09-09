@@ -1,3 +1,4 @@
 ## fisika
 ## komputasi
 ## awan
+miring
