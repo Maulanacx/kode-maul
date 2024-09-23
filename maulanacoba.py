@@ -14,7 +14,6 @@ if (sx == 'C'):
   y = x+273,15 
  elif(sy == 'R'):
   y = x*4/5 
-y = 0
 elif (sx == 'F'):
  if(sy == 'F'):
   y = x
@@ -24,7 +23,6 @@ elif (sx == 'F'):
   y = 4/9*(x-32) 
  elif(sy == 'K'):
   y = (x+459,67)*5/9
-y = 0
 elif (sx == 'R'):
  if(sy == 'R'):
   y = x
@@ -34,7 +32,6 @@ elif (sx == 'R'):
   y = 9/4*x+32 
  elif(sy == 'K'):
   y = 273,15+(x*5/4)
-y = 0
 elif (sx == 'K'):
  if(sy == 'K'):
   y = x
