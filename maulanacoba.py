@@ -34,7 +34,7 @@ elif sx == 'K':
         y = x
     elif sy == 'R':  
         y = (x - 273) * 0.8
-elif sx == 'R':  # Reaumur
+elif sx == 'R':  # Reamur
     if sy == 'C':  
         y = x / 0.8
     elif sy == 'F':  
