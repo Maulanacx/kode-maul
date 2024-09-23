@@ -10,4 +10,10 @@ if (sx == 'C'):
   y = x
  elif(sy == 'F'):
   y = x*9/5+32
+ y = 0
+if (sx == 'C'):
+ if(sy == 'C'):
+  y = x
+ elif(sy == 'K'):
+  y = x+273,15
 st.write(x,' ',sx, '= ',y, sy)
