@@ -9,5 +9,5 @@ if (sx == 'C'):
  if(sy == 'C'):
   y = x
  elif(sy == 'F'):
-  (9/5*sx)+32
+  y = x*9/5+32
 st.write(x,' ',sx, '= ',y, sy)
