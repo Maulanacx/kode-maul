@@ -10,4 +10,4 @@ if (sx == 'C'):
   y = x
  elif(sy == 'F'):
   pass
-st.write(x,' ',sx, '= ...', sy)
+st.write(x,' ',sx, '= ',y, sy)
